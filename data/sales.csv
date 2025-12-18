@@ -1,0 +1,5 @@
+order_id,order_date,customer,amount,region
+101,2024-01-01,Ravi,1200,South
+102,2024-01-02,Sita,1500,North
+103,2024-01-03,,1800,East
+104,2024-01-04,John,,West
